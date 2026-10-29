@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Isaac Escobar — Software Developer</title><desc id="desc">Desarrollo, automatización y seguridad desde Panamá. Portada en azul noche y turquesa con un motivo de circuitos.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09111f"/><stop offset="1" stop-color="#102e3a"/></linearGradient><linearGradient id="accent"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#60a5fa"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#7dd3fc" stroke-opacity=".055"/></pattern></defs>
+<rect width="1280" height="420" rx="22" fill="url(#bg)"/><rect width="1280" height="420" rx="22" fill="url(#grid)"/>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".35"><path d="M920 0v80l70 70h190"/><path d="M1100 0v110l-90 90v90l130 130"/><path d="M1280 270h-140l-65-65h-160"/><path d="M850 420v-90l-45-45v-90"/><circle cx="1180" cy="150" r="6"/><circle cx="915" cy="205" r="6"/><circle cx="805" cy="195" r="6"/></g>
+<rect x="70" y="64" width="156" height="30" rx="15" fill="#2dd4bf" fill-opacity=".12" stroke="#2dd4bf" stroke-opacity=".3"/><circle cx="88" cy="79" r="4" fill="#2dd4bf"/><text x="101" y="84" font-family="Verdana,sans-serif" font-size="12" fill="#99f6e4" letter-spacing="2">HELLO, WORLD</text>
+<text x="66" y="184" font-family="Verdana,sans-serif" font-size="65" font-weight="700" fill="#f0f6fc" letter-spacing="-3">Isaac Escobar</text>
+<text x="71" y="230" font-family="Verdana,sans-serif" font-size="23" fill="#8cdddc">Software Developer · Programmer Analyst</text>
+<rect x="71" y="260" width="60" height="4" rx="2" fill="url(#accent)"/>
+<text x="71" y="307" font-family="Verdana,sans-serif" font-size="18" fill="#bcccdc">Desarrollo. Automatización. Seguridad.</text>
+<text x="71" y="358" font-family="Verdana,sans-serif" font-size="13" fill="#7d95aa" letter-spacing="2">PANAMÁ / @IsaacEguardia</text>
+<g transform="translate(950 150)"><rect width="225" height="150" rx="16" fill="#09111f" stroke="#355667"/><circle cx="21" cy="21" r="4" fill="#fb7185"/><circle cx="37" cy="21" r="4" fill="#fbbf24"/><circle cx="53" cy="21" r="4" fill="#2dd4bf"/><text x="37" y="105" font-family="monospace" font-size="60" font-weight="700" fill="url(#accent)">&lt;/&gt;</text></g>
+<rect y="414" width="1280" height="6" fill="url(#accent)"/></svg>
